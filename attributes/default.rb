@@ -1,0 +1,6 @@
+default['td_agent']['conf_dir']    = '/etc/td-agent'
+default['td_agent']['group']       = 'td-agent'
+default['td_agent']['log_dir']     = '/var/log/td-agent'
+default['td_agent']['plugin_dir']  = '/etc/td-agent/plugin'
+default['td_agent']['user']        = 'td-agent'
+default['td_agent']['version']     = '1.1.9-0'
