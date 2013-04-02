@@ -27,4 +27,4 @@ Add the treasure_data_agent-cookbook to your role/run_list.
 
 # Author
 
-Author:: Intuit, Inc. (<kevin_young@intuit.com>)
+Author:: Intuit, Inc. (kevin_young@intuit.com)
