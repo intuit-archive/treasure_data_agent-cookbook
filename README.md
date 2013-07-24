@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/intuit/treasure_data_agent-cookbook.png)](http://travis-ci.org/intuit/treasure_data_agent-cookbook)
+
 # treasure_data_agent-cookbook cookbook
 
 The event collector daemon, for Treasure Data. This daemon collects various types of logs/events via various way, and transfer them to the cloud. For more about Treasure Data, see the [homepage](http://treasure-data.com/), and the [documentation](http://docs.treasure-data.com/).
